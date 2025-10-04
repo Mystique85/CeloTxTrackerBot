@@ -51,3 +51,19 @@ npm run deploy
 npm start
 ```
 
+---
+
+# 📜 License
+
+```text
+MIT License
+```
+
+---
+
+# 🔗 Links
+
+- [GitHub Repository](https://github.com/Mystique85/CeloTxTrackerBot)  
+- [Celo Documentation](https://docs.celo.org/)  
+- [Hardhat Documentation](https://hardhat.org/)  
+- [Full Codespaces Guide](CODESPACES_GUIDE.md)
