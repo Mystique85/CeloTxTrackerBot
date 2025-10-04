@@ -4,9 +4,16 @@
   </span>
 </p>
 
+                               
+
+<!-- Typing effect for project name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=48&pause=800&color=32CD32&center=true&vCenter=true&width=600&lines=CeloTxTrackerBot" alt="CeloTxTrackerBot Typing SVG" />
+</p>
 
 
-# CeloTxTrackerBot                                       
+
+
 
 
 
