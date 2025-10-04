@@ -17,6 +17,4 @@ This project demonstrates simple interactions with Celo L1 and is part of Proof 
 4. Integrate bot with Discord webhook (optional)
 
 ## How to Run
-### Install dependencies
-```bash
-npm install
+### Setup `.env` file
