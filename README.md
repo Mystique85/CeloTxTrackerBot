@@ -1,12 +1,14 @@
-<div style="text-align: center;">
-  <div style="display: inline-block; border: 2px solid #ccc; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+<p align="center">
+  <span style="display: inline-block; border: 2px solid #ccc; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
     <img src="assets/logo.png" alt="CeloTxTrackerBot Logo" width="200"/>
-  </div>
-</div>
+  </span>
+</p>
 
 
 
-# CeloTxTrackerBot
+# CeloTxTrackerBot                                       
+
+
 
 A simple Proof of Ship project for the Celo ecosystem 🚀
 
