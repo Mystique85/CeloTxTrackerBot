@@ -1,3 +1,5 @@
+![CeloTxTrackerBot Logo](assets/logo.png)
+
 # CeloTxTrackerBot
 
 A simple Proof of Ship project for the Celo ecosystem 🚀
