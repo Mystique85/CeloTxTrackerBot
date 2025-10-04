@@ -3,8 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=48&pause=800&color=32CD32&center=true&vCenter=true&width=600&lines=CeloTxTrackerBot" alt="CeloTxTrackerBot Typing SVG" />
 </p>
 
+<!-- Logo with shadow and rounded border -->
 <p align="center">
-  <span style="display: inline-block; border: 2px solid #ccc; padding: 12px; border-radius: 12px; background-color: #f9f9f9;">
+  <span style="display: inline-block; border: 2px solid #ccc; padding: 12px; border-radius: 16px; background: linear-gradient(145deg, #f9f9f9, #e0e0e0); box-shadow: 5px 5px 15px rgba(0,0,0,0.2);">
     <img src="assets/logo.png" alt="CeloTxTrackerBot Logo" width="220"/>
   </span>
 </p>
@@ -13,11 +14,12 @@
 
 # 📖 Overview
 
-CeloTxTrackerBot is a lightweight tool for the **Celo ecosystem** that:
+CeloTxTrackerBot is a **lightweight, professional tool** for the Celo ecosystem:
 
 - 🚀 Deploys a smart contract (`TxRegister.sol`) to Celo L1  
 - 🔗 Allows users to register themselves on-chain  
 - 🤖 Includes a Node.js bot that tracks outgoing transactions from a given address  
+- 🔔 Optional integration with Discord/Telegram for real-time notifications  
 
 ---
 
@@ -37,39 +39,3 @@ CeloTxTrackerBot is a lightweight tool for the **Celo ecosystem** that:
 
 ```bash
 npm install
-
-# 🔧 Environment Variables
-
-Create a `.env` file in the root (do **not commit**):
-
-```text
-PRIVATE_KEY=your_private_key
-MONITORED_ADDRESS=your_celo_address
-
-# 🚀 Deployment
-
-Deploy the smart contract to Celo:
-
-```bash
-npm run deploy
-
-# 🤖 Start Bot
-
-Run the bot to monitor outgoing transactions:
-
-```bash
-npm start
-
-# 📜 License
-
-MIT License
-
----
-
-# 🔗 Links
-
-- [GitHub Repository](https://github.com/Mystique85/CeloTxTrackerBot)  
-- [Celo Documentation](https://docs.celo.org/)  
-- [Hardhat Documentation](https://hardhat.org/)
-
-
