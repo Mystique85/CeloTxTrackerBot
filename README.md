@@ -32,6 +32,26 @@ CeloTxTrackerBot is a **lightweight, professional tool** for the Celo ecosystem:
 
 ---
 
+---
+
+# 🔗 Links
+
+- [GitHub Repository](https://github.com/Mystique85/CeloTxTrackerBot)  
+- [Celo Documentation](https://docs.celo.org/)  
+- [Hardhat Documentation](https://hardhat.org/)
+
+
+
+---
+
+# 📜 License
+
+
+```text
+MIT License
+
+---
+
 # 💻 Installation & Setup
 
 Open **GitHub Codespaces** for this repository and run the following commands:
