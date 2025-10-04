@@ -1,9 +1,10 @@
 import { ethers } from "ethers";
+import 'dotenv/config';
 
 const CELO_RPC = "https://forno.celo.org";
 const provider = new ethers.JsonRpcProvider(CELO_RPC);
 
-const ADDRESS = "0xYourWalletAddressHere"; // <-- podmień na swój adres
+const ADDRESS = process.env.MONITORED_ADDRESS;
 
 async function main() {
   console.log("Listening for transactions from:", ADDRESS);
