@@ -32,13 +32,6 @@ CeloTxTrackerBot is a **lightweight, professional tool** for the Celo ecosystem:
 
 ---
 
-# 💻 Installation
-
-1. Open **GitHub Codespaces** for this repository  
-2. Install dependencies:
-
-```bash
-npm install
 # 💻 Installation & Setup
 
 Open **GitHub Codespaces** for this repository and run the following commands:
@@ -56,4 +49,3 @@ npm run deploy
 
 # Start the bot to monitor outgoing transactions
 npm start
-
