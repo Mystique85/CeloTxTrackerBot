@@ -1,4 +1,5 @@
 import { ethers } from "hardhat";
+import 'dotenv/config';
 
 async function main() {
   const TxRegister = await ethers.getContractFactory("TxRegister");
