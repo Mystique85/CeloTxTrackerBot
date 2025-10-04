@@ -39,3 +39,21 @@ CeloTxTrackerBot is a **lightweight, professional tool** for the Celo ecosystem:
 
 ```bash
 npm install
+# 💻 Installation & Setup
+
+Open **GitHub Codespaces** for this repository and run the following commands:
+
+```bash
+# Install dependencies
+npm install
+
+# Create .env file (example)
+echo "PRIVATE_KEY=your_private_key" >> .env
+echo "MONITORED_ADDRESS=your_celo_address" >> .env
+
+# Deploy smart contract to Celo
+npm run deploy
+
+# Start the bot to monitor outgoing transactions
+npm start
+
